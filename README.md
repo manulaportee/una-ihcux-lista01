@@ -9,4 +9,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - [Adicione aqui mais 3 comandos que você achou úteis]
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./https://github.com/manulaportee/una-ihcux-lista01/blob/main/Captura%20de%20tela%202026-03-26%20193633.png)
+![Foto do meu terminal](https://github.com/manulaportee/una-ihcux-lista01/blob/main/Captura%20de%20tela%202026-03-26%20193633.png)
